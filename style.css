@@ -5,6 +5,7 @@
   }
   body {
    background: linear-gradient(45deg, #A2C9CC, #38CE9B);
+   height: 100vh;
   }
   h1 {
   margin: 0;
