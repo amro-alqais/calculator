@@ -11,7 +11,7 @@
   padding: 0;
   	}
   .main {
-  .position: relative;
+  position: relative;
    background: #ccc;
    text-align: center;
    width: 300px;
@@ -23,7 +23,7 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(100%, -254%);
+  transform: translate(100%, -140%);
   height: 40px;
   width: 70px;
   
